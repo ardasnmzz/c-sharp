@@ -1,0 +1,15 @@
+/Users/ardasonmez/Documents/GitHub/c-sharp/bin/Debug/net6.0/c-sharp
+/Users/ardasonmez/Documents/GitHub/c-sharp/bin/Debug/net6.0/c-sharp.deps.json
+/Users/ardasonmez/Documents/GitHub/c-sharp/bin/Debug/net6.0/c-sharp.runtimeconfig.json
+/Users/ardasonmez/Documents/GitHub/c-sharp/bin/Debug/net6.0/c-sharp.dll
+/Users/ardasonmez/Documents/GitHub/c-sharp/bin/Debug/net6.0/c-sharp.pdb
+/Users/ardasonmez/Documents/GitHub/c-sharp/obj/Debug/net6.0/c-sharp.csproj.AssemblyReference.cache
+/Users/ardasonmez/Documents/GitHub/c-sharp/obj/Debug/net6.0/c-sharp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ardasonmez/Documents/GitHub/c-sharp/obj/Debug/net6.0/c-sharp.AssemblyInfoInputs.cache
+/Users/ardasonmez/Documents/GitHub/c-sharp/obj/Debug/net6.0/c-sharp.AssemblyInfo.cs
+/Users/ardasonmez/Documents/GitHub/c-sharp/obj/Debug/net6.0/c-sharp.csproj.CoreCompileInputs.cache
+/Users/ardasonmez/Documents/GitHub/c-sharp/obj/Debug/net6.0/c-sharp.dll
+/Users/ardasonmez/Documents/GitHub/c-sharp/obj/Debug/net6.0/refint/c-sharp.dll
+/Users/ardasonmez/Documents/GitHub/c-sharp/obj/Debug/net6.0/c-sharp.pdb
+/Users/ardasonmez/Documents/GitHub/c-sharp/obj/Debug/net6.0/c-sharp.genruntimeconfig.cache
+/Users/ardasonmez/Documents/GitHub/c-sharp/obj/Debug/net6.0/ref/c-sharp.dll
